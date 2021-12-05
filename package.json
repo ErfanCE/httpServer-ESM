@@ -1,0 +1,12 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "simple http server ES Modules",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "type": "module",
+  "author": "ErfanCE",
+  "license": "ISC"
+}
